@@ -7,4 +7,4 @@
 ### If you want to make such kind of scalable Dashboards for your organization, feel free to reach out to me at  waleed_345@hotmail.com
 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://github.com/waleedjmm/dashboard/blob/main/BI_Best.gif" width="1000" height="600" />
